@@ -1,5 +1,5 @@
 <?php
-require_once(dirname(dirname(dirname(dirname(__FILE__))))).'/GlobalsVar.class.php';
+require_once(dirname(dirname(dirname(dirname(__FILE__))))).'/src/GlobalsVar.class.php';
 /**
  * Clase que gestiona la ejecucion de controllers del sistema SEP.
  *
